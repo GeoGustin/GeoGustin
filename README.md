@@ -1,4 +1,3 @@
-- 👋 Olá, Eu sou a Geovana.
 - 📚 Cursando Desenvolvimento de Sistemas - SENAI
 
 <!---
